@@ -1,0 +1,18 @@
+/*
+	Author : Ender İMEN;
+	E-mail : enderimen@hotmail.com;
+	Date   : 30.01.2018;
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url("../img/bg.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
